@@ -1,5 +1,4 @@
 GzChat聊天室
-GzkThunder制作
 ---
 
 GzChat聊天室是一个基于nodejs+express+socket.io模块构建的
